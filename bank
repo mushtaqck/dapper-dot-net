@@ -1,0 +1,1 @@
+{'NSE:NIFTY BANK': {'instrument_token': 260105, 'tradingsymbol': 'NIFTY BANK', 'timestamp': datetime.datetime(2022, 1, 10, 19, 10, 6), 'last_price': 38347.9, 'net_change': 608.3, 'ohlc': {'open': 37930.55, 'high': 38400.35, 'low': 37929.35, 'close': 37739.6}}}
